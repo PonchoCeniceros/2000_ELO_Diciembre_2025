@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.chess/
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.conda
+*.env
+
+
+# Jupyter runtime files
+*.log
+*.pid
+*.json
+*.sqlite3
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# pyenv
+.python-version
+
+# pip cache
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# Notebook metadata cache
+*.nbconvert.ipynb
+
+# Conda environment files
+environment.yml
+
+# Hidden notebook checkpoints (sometimes found elsewhere)
+**/.ipynb_checkpoints/
+
+# If storing large outputs, consider excluding them
+*.out
+*.pdf
+*.svg
+
